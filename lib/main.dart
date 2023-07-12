@@ -20,6 +20,9 @@ void main() {
     myClass.addToList(i);
   }
 
+
+  /// new account added
+
   // We no longer need the MyClass instance, but it is not garbage collected
   // because the _list instance variable is still referenced by the MyClass instance.
 
